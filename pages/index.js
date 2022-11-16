@@ -9,9 +9,9 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I am John Rald.  I'm a grade 6 student of St. Scholastica Academy</p>
-        <p>My hobbies are playing Roblux, watching youtube videos and playing chess</p>
-        <p>My favorite food are ramen, maki and my lola's sisig</p>
+        <p>Hello, I am John Rald.  I'm a grade 6 student of St. Scholastica Academy.  
+        My hobbies are playing Roblux, watching youtube videos and playing chess.  
+        My favorite food are ramen, maki and my lola's sisig</p>
         <p>Someday I want to be a gasoline boy!</p>        
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
